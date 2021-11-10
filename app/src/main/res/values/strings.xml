@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Elektrorechner_Till_Weckheuer</string>
+    <string name="text_label_app_name">Elektrorechner</string>
+    <string name="string_spannung">Spannung:</string>
+    <string name="string_widerstand">Widerstand:</string>
+    <string name="string_strom">Strom:</string>
+    <string name="string_button_berechnen">Berechnen</string>
+    <string-array name="einheiten_spannung">
+        <item>V</item>
+        <item>mV</item>
+    </string-array>
+    <string-array name="einheiten_strom">
+        <item>A</item>
+        <item>mA</item>
+    </string-array>
+    <string-array name="einheiten_widerstand">
+        <item>Ohm</item>
+        <item>mOhm</item>
+    </string-array>
+
+</resources>
